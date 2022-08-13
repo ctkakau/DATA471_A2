@@ -2,7 +2,9 @@
 title: "DATA471_A2_Part1"
 author: "kakauchad_300212228"
 date: "2022-08-12"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -59,19 +61,38 @@ R - essential driver of the project
 T - due Exam week 2022  
 
 3.  How did you model the 5-Ws and an H of the project?  
-These questions were generated in discussion and are broken down into basic elements we can use to organise relevant tasks.  Some of the questions were based aroun d our area of interest, some around what we need to do and how we need to do it:  
+
+These questions were generated in discussion and are broken down into basic elements we can use to organise relevant tasks.  Some of the questions were based around our area of interest, some around what we need to do and how we need to do it:  
 
 We used a google chrome extension to generate a mind map but it is a bit difficult to share - the extension purports support for collaboration through google drive, but it isn't very intuitive.  It does support a number of mindmap formats including as a text file, but we are still figuring that out.
 
-(I will attach as text to the bottom, the text file is like... 5 pages)
+The mindmap can be accessed here:
+ .mup format:   https://github.com/ctkakau/DATA471_A2/blob/main/Impact%20of%20COVID.mup 
+ .mymind format:  https://github.com/ctkakau/DATA471_A2/blob/main/Impact%20of%20COVID%20(1).mymind  
+ .txt format:  https://github.com/ctkakau/DATA471_A2/blob/main/DATA471_A2_MM.txt   
 
 We are still coming to grips with the Kanban, the concept seems useful, but we are still trying to develop the workflow and responsibilities.  The trello page has been setup, but not much uploaded while we have been still trying to figure out the direction of the project.  
 
-the trello page is at:  https://trello.com/invite/data471_group22/88ce03d29f07da416592b8a3c7942666 
+the trello page is accessible at:  https://trello.com/invite/data471_group22/88ce03d29f07da416592b8a3c7942666 
 
 4.  How did you model your team?  
 
-We have a small team of two people, from different backgrounds, but we seemed to get on ok.  it has been a bit tough meeting in person, but we have had a couple of meetings to discuss direction and responsibilities.  We are still in the initial data collection and review phase, focussing on separate datasets.  
+We have a small team of two people, from different backgrounds, but we seemed to get on ok.  it has been a bit tough meeting in person, but we have had a couple of meetings to discuss direction and responsibilities.  We are still in the initial data collection and review phase, focussing on separate datasets.  Because our team is small, we will likely share responsibilities for many tasks, but in terms of capabilities and areas for development, my preference is to work with data that can also be relevant to my work in law enforcement (this is why I preferred the Police dataset); and I am interested in developing a wide repertoire of visualisation techniques for communicating messages from data to a broad audience base (which is why I'm keen to look at the effects of Government decisions in managing COVID because there was a real change in atmosphere over the course of the last two years).  
+
+The specific areas I am hoping to develop is working on disparate datasets (generally, data provided during academic have been manicured) and trying to bring that data together to answer my own questions.  That means identifying potential data sources, refining the question based on what the data can tell, applying some of the statistical analysis tools and models to the data to determine the answers, and finally, communciating those findings by way of visualisations and reports.
+
+5.  Show and describe your project's timeline as a project.  
+
+We have a general plan, it isn't set in stone, and just covers things at a high level (e.g. main phases:  collection, pre-processing, Initial EDA, with the addition of some weekly reporting).  We are still deciding on the platform, but have produced an initial project plan using ProjectLibre.  The project has initial timelines through to early October, but there is no contingency built into this plan.  The current timeline is built on an estimate of the minimum amount of time to complete tasks to a reasonable standard and we assume there is likely to be over-runs, especially as multiple assessments, work-pressures and social engagements increase over time.  
+
+The project plan can be accessed here:  https://github.com/ctkakau/DATA471_A2/blob/main/DATA471_EDA.pod 
+
+The project has around two weeks for question development and refinement and overlaps with initial data collection (Police, Stats NZ for official statistics; MoH and COVID websites for key dates - likely in written language format).  The two biggest phases of the project will be the pre-processing stage (cleaning and transforming data for comparable analysis) and the initial exploration of the data to determine features and any trends within individual datasets and then between different groups of datasets.  These pre-processing and initial exploration phases are expected to take two to three weeks.  Once the initial analysis is done, preparation for submission should be fairly quick, as much of the analysis pre-processing and analysis will likely be done in markdown or notebook format.  
+
+The project will be refined at weekly intervals to identify any significant barriers or challenges, but team members are expected to contact several times per week to maintain cohesion. 
+
+This document and associated support files can be accessed at https://github.com/ctkakau/DATA471_A2  
+
 
 
 
