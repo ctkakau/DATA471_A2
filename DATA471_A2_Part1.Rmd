@@ -1,0 +1,77 @@
+---
+title: "DATA471_A2_Part1"
+author: "kakauchad_300212228"
+date: "2022-08-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# DATA471 Assignment 2 Part 1  
+
+1. What is your working question?
+
+The current working question is:  _what have been the impacts of the New Zealand Government's decisions to control the spread of COVID on society._    
+
+The question started as a general interest in the Police data and wanting to look for some patterns in the data.  Initial thoughts were around looking at changes over time (rather than between groups or categories) to look for trends and we thought of what effects that COVID may create.  We thought that there might be noticeable changes in things like family violence, alcohol-related offending as the Government introduced controls on movement.  We also thought about how the social atmosphere has changed as the country (and the world) become more accustomed to COVID and the effective precautions.  
+From there we thought about looking for relationships between timing of government controls and offending, but also at other indicators (like well-being, employment/wages, and confidence in institutions etc.).  We still need to refine the question because it's still a bit massive...
+
+2. What are the SMART components of the project?  
+
+The SMART components of the project are set out below as our key outputs.  We have also done an initial plan for the group portion of the project, which includes setting some specific outputs with their own SMART elements and have allocated initial tasks (dataset collection and initial pre-processing).  
+
+The key outputs are:  1.  a nicely refined question.  2. a collection of nice clean datasets to work from.  3. a completed initial EDA.  4. a completed full EDA.  
+
+_Output 1_
+S - We will have a refined question that incorporates the fundamental underlying objective and limits to the specific datasets of interest  
+M - one question, acceptable to the supervisor  
+A - is mostly done and will be influenced by the first phase of pre-processing datasets
+R - very relevant to the project, essential to make sure that we can focus activity ... because this is the point of the activity  
+T - final question due by end of August, revision dates:16 August, 23 August
+
+_Output 2_  
+S - To check for trends we need time-series data, with aggregation to the same basis.  Key datasets are:  
+  - NZ Government decisions and timeline (include date of decision and indicator of type)  
+  - Family violence offending/victimisations (include region for geographical analysis, possibly by sex and/or age)  
+  - Employment data (salary/wages, employment rate) (include region, possibly by sex, age)
+  - Well-being data (include region, sex, age)  
+  - Public confidence data (include region, sex, age)
+  
+M - presence of dataset - on a time basis (ideally monthly, no less than quarterly for periodic)  
+A - datasets are available, most have already been downloaded but not yet pre-processed to confirm suitability  
+R - will form the basis of the analysis, but also the limitations, so is fundamental to achieving the objective  
+T - currently overdue - extend to 16 August for report back to team.  
+
+_Output 3_  
+S - Initial EDA, as defined by DATA471 course requirements  
+M - must meet defined requirements  
+A - all tools and skills are held by project members and individuals  
+R - essential driver of the project  
+T - due 6 September 2022  
+
+_Output 4_  
+S - Initial EDA, as defined by DATA471 course requirements  
+M - must meet defined requirements  
+A - all tools and skills are held by project members and individuals  
+R - essential driver of the project  
+T - due Exam week 2022  
+
+3.  How did you model the 5-Ws and an H of the project?  
+These questions were generated in discussion and are broken down into basic elements we can use to organise relevant tasks.  Some of the questions were based aroun d our area of interest, some around what we need to do and how we need to do it:  
+
+We used a google chrome extension to generate a mind map but it is a bit difficult to share - the extension purports support for collaboration through google drive, but it isn't very intuitive.  It does support a number of mindmap formats including as a text file, but we are still figuring that out.
+
+(I will attach as text to the bottom, the text file is like... 5 pages)
+
+We are still coming to grips with the Kanban, the concept seems useful, but we are still trying to develop the workflow and responsibilities.  The trello page has been setup, but not much uploaded while we have been still trying to figure out the direction of the project.  
+
+the trello page is at:  https://trello.com/invite/data471_group22/88ce03d29f07da416592b8a3c7942666 
+
+4.  How did you model your team?  
+
+We have a small team of two people, from different backgrounds, but we seemed to get on ok.  it has been a bit tough meeting in person, but we have had a couple of meetings to discuss direction and responsibilities.  We are still in the initial data collection and review phase, focussing on separate datasets.  
+
+
+

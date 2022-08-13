@@ -1,0 +1,24 @@
+---
+title: "DATA471_A2_2"
+author: "kakauchad_300212228"
+date: "2022-08-12"
+output: html_document
+---
+
+```{r setup, include=FALSE, warning=FALSE, include=FALSE,echo=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+## Part 2
+
+### Q3  
+
+  a)  One aspect of the Disney Film Dialoge Interactive Visualisation (https://pudding.cool/2017/03/film-dialogue/) that could be a gulf of evaluation problem is that (perhaps this is because I'm old) it kind of gave me a bit of a fright when the visualisations dropped down to cover the most of the viewable screen as I scrolled.  Then the visualisations changed as I scrolled some more... I shouldn't have been surprised, but I did let out a little squeal :)  It was exciting, but I wasn't expecting it to happen and as good as the visualisations are (it took a couple of minutes to get over the scrolling magic - they were actually really good at getting the information across), the fact the visualisations just jumped out detracted from what they were telling me.  In terms of the gulf of evaluation - it gave me things I wasn't expecting as if it knew what I wanted, but by pushing that information at me, it was distracting and took several re-visits before I could actually focus on and extract the information that was useful.  
+  
+  
+  b)  But overall, the visualisation is awesome! after getting over the magic... wait. After getting used to the magic I was dove in and found some really clever and useful elements.  In terms of the gulf of evaluation, the visualisations were very clear with a good mix of contrasting colours, limited to just two so my eyes don't explode; the visualisations were well blended and appeared as you get to the relevant text, or just sit patiently within the body of the text.  The visualisations gave things that linked to the text (e.g. percentage bars, aligned in column, ordered, with perfectly sized labels making it easy to read, find things that jumped out - like lots of blue, or lots of red - and then see which movie it was).  I could go on for hours... having some items that gave additional information like the interactive 2,000 screenplay visualisation that sorts in stacks of 1% to get a quick visual reference about how many screenplays have a particular percentage of words spoken by male, and then you can hover over each dot, to see the name of the movie (and a redundant representation of the same information). AAAAAnd you can run some of the filters to refine to find something of interest.   
+  So in terms of the gulf of evaluation - it is a pretty small gap.
+  
+  Ref: The Glossary of Human Computer Interaction, Ch 19.  retrieved:  https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/gulf-of-evaluation-and-gulf-of-execution

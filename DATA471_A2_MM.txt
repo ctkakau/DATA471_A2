@@ -1,0 +1,188 @@
+Impact of COVID<br>
+	What?
+		What is a 'key government decision'?
+			Generate definition of&nbsp; "key government decision
+				Alert leve/s
+				Movement restrictions
+				Mandated activity
+		What is a 'family violence offence'?
+			Defined in Police reporting
+			Limit to time period
+			Do we need to differentiate?&nbsp;&nbsp;
+		What is an 'impact' of a key decision?
+			Define an impact
+				A 'change' in an indicator
+				Accept time difference - lag
+				may be positive (increase) or negative (decrease) of the indicator
+				Do we define potential for different impacts of same decision?
+		What is public confidence?
+			Define public confidence
+				Self -reported
+				Accepted indicators
+					based on data and interpretation
+				media reported
+	When?
+		When was a key decision made?
+			Timeline the decisions
+				decision type
+					Mandate
+					Advisory
+					Restriction
+					General
+					specific
+		When did a change in an indicator occur?
+			timestamp key decisions in other data series
+				look for lead
+				look for lag
+					bins?
+			look for changes in time series
+		When was the data collected?
+	Where?
+		Where are impacts seen?
+			Define the limits of the analysis&nbsp; (e.g. geographic category)
+				National?
+				International
+				Regional?
+				Local?
+			Describe the limits of the data&nbsp;
+				Geographic coverage
+					National
+					Regional
+					Local
+				collection changes
+		Where are impacts higher?
+			Compare data by region
+				No time series
+				with time series
+		Where are impacts lower?
+			Compare data by region&nbsp;
+				without time series
+				with time series
+		Where are there positive/negative relationships between datasets?
+			Describe relationship&nbsp;
+				locations with positive
+				locations with negative
+				locations with periodic
+				locations with no relationship
+		Where are decisions different?
+			Describe decision differences by location
+				National
+				international
+				regional
+				local
+	Who?
+		Who collected the data?
+			most of these collections will be official
+				organisation
+				purpose for collection
+				use
+				reliability
+			generated or inferred as part of analysis
+				which team member
+				method
+				original source
+		Who provided the data?
+			most are official collections
+				organisation
+				purpose
+				consent
+				authority
+				use
+				representativeness
+		Who does the data relate to?
+			most are official collections
+				from official holdings
+				from survey
+			generated as part of the analysis
+				team memberr
+				method
+				original source
+		Who reads/interprets the data?
+			official collections
+				public sector
+				private sector
+				academia
+				media
+				public
+			project
+				project team
+				supervisor
+				possible publication
+				possible upload for public access
+		Who does specific tasks in the project team
+			tasks by interest
+			tasks by capability
+			tasks by necessity
+			tasks by role or responsibility
+				supervisor
+					review project plan
+					review question
+					review initial analysis
+					respond to questions
+				project team
+					Abarna
+						collection
+						preprocessing
+						analysis
+						production
+						review
+					Chad
+						collection
+						preprocessing
+						analysis
+						production
+						review
+				course members
+					review
+					feedback
+				external
+					review
+					feedback
+					clarifications
+					technical support
+	Why?
+		Why did government make a decision?
+			Describe the intention
+				explain the perceived risk
+				explain why government is responsible
+			Describe the intervention
+				expected outcome
+				methodology
+		Why are there differences?
+			relate to the expected outcome and methodology
+		Why look at these indicators?
+			explain what these indicators represent
+				proxies?
+				defined usage
+			availability
+			reliability
+			usability
+	How?
+		How was the key decision made?
+			Describe decision process
+				consultation and engagement
+				timing
+				communication
+				key messaging
+				supporting information
+				intended/unintended consequences identified
+		how was the key decision communicated?
+			channels
+				announcements
+				media
+				public figures
+		How was the key decision enforced?
+			locus of responsibility
+				government
+					sector
+					agency
+					coordination
+					regulation
+				private sector
+				social group
+				individual levell
+		How did the decision manifest in the data?
+			relate to intended consequences
+			relate to timing (lag)
+			relate to location
+			relate to demographic

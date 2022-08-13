@@ -1,0 +1,894 @@
+{
+	"root": {
+		"id": "cvdbmgph",
+		"text": "Impact of COVID<br>",
+		"layout": "map",
+		"children": [
+			{
+				"id": "mwchnloa",
+				"text": "What?",
+				"side": "right",
+				"children": [
+					{
+						"id": "zcmzqxjr",
+						"text": "What is a 'key government decision'?",
+						"children": [
+							{
+								"id": "atdgwmvj",
+								"text": "Generate definition of&nbsp; \"key government decision",
+								"children": [
+									{
+										"id": "ymskqbeu",
+										"text": "Alert leve/s"
+									},
+									{
+										"id": "bdshnsnz",
+										"text": "Movement restrictions"
+									},
+									{
+										"id": "miekxhse",
+										"text": "Mandated activity"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "wizwbkot",
+						"text": "What is a 'family violence offence'?",
+						"children": [
+							{
+								"id": "gacnmuuf",
+								"text": "Defined in Police reporting"
+							},
+							{
+								"id": "cbrizwrz",
+								"text": "Limit to time period"
+							},
+							{
+								"id": "gijnpmsl",
+								"text": "Do we need to differentiate?&nbsp;&nbsp;"
+							}
+						]
+					},
+					{
+						"id": "tfsbwruy",
+						"text": "What is an 'impact' of a key decision?",
+						"children": [
+							{
+								"id": "bhcpkjzz",
+								"text": "Define an impact",
+								"children": [
+									{
+										"id": "bgigfhef",
+										"text": "A 'change' in an indicator"
+									},
+									{
+										"id": "zehtunvf",
+										"text": "Accept time difference - lag"
+									},
+									{
+										"id": "kaqeudjt",
+										"text": "may be positive (increase) or negative (decrease) of the indicator"
+									},
+									{
+										"id": "mxjslobw",
+										"text": "Do we define potential for different impacts of same decision?"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "pwmrackk",
+						"text": "What is public confidence?",
+						"children": [
+							{
+								"id": "uaopatbr",
+								"text": "Define public confidence",
+								"children": [
+									{
+										"id": "eowxldbz",
+										"text": "Self -reported"
+									},
+									{
+										"id": "uwipdtjz",
+										"text": "Accepted indicators",
+										"children": [
+											{
+												"id": "kjrhjpls",
+												"text": "based on data and interpretation"
+											}
+										]
+									},
+									{
+										"id": "vvlxlrsa",
+										"text": "media reported"
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "enofhxuc",
+				"text": "When?",
+				"side": "left",
+				"children": [
+					{
+						"id": "tswxdfzt",
+						"text": "When was a key decision made?",
+						"children": [
+							{
+								"id": "ohwvcupv",
+								"text": "Timeline the decisions",
+								"children": [
+									{
+										"id": "tksvmqaz",
+										"text": "decision type",
+										"children": [
+											{
+												"id": "capjqcme",
+												"text": "Mandate"
+											},
+											{
+												"id": "puffhgqo",
+												"text": "Advisory"
+											},
+											{
+												"id": "sexssjxs",
+												"text": "Restriction"
+											},
+											{
+												"id": "zdysqwhp",
+												"text": "General"
+											},
+											{
+												"id": "xzqxivio",
+												"text": "specific"
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "xvymghnn",
+						"text": "When did a change in an indicator occur?",
+						"children": [
+							{
+								"id": "ywsfucmf",
+								"text": "timestamp key decisions in other data series",
+								"children": [
+									{
+										"id": "taldmvvi",
+										"text": "look for lead"
+									},
+									{
+										"id": "knopytmp",
+										"text": "look for lag",
+										"children": [
+											{
+												"id": "gwsrveyj",
+												"text": "bins?"
+											}
+										]
+									}
+								]
+							},
+							{
+								"id": "bwsjrfat",
+								"text": "look for changes in time series"
+							}
+						]
+					},
+					{
+						"id": "etvnhonq",
+						"text": "When was the data collected?"
+					}
+				]
+			},
+			{
+				"id": "pweegxbk",
+				"text": "Where?",
+				"side": "right",
+				"children": [
+					{
+						"id": "esfbumjs",
+						"text": "Where are impacts seen?",
+						"children": [
+							{
+								"id": "gzodgsnw",
+								"text": "Define the limits of the analysis&nbsp; (e.g. geographic category)",
+								"children": [
+									{
+										"id": "sbkmftrg",
+										"text": "National?"
+									},
+									{
+										"id": "vxkvtcug",
+										"text": "International"
+									},
+									{
+										"id": "amliosgd",
+										"text": "Regional?"
+									},
+									{
+										"id": "xfvoizgf",
+										"text": "Local?"
+									}
+								]
+							},
+							{
+								"id": "mirafwzy",
+								"text": "Describe the limits of the data&nbsp;",
+								"children": [
+									{
+										"id": "moaewxkw",
+										"text": "Geographic coverage",
+										"children": [
+											{
+												"id": "yloepswm",
+												"text": "National"
+											},
+											{
+												"id": "gojehsdd",
+												"text": "Regional"
+											},
+											{
+												"id": "eheefogy",
+												"text": "Local"
+											}
+										]
+									},
+									{
+										"id": "izuxvkbi",
+										"text": "collection changes"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "drosjfnt",
+						"text": "Where are impacts higher?",
+						"children": [
+							{
+								"id": "fqssvjpz",
+								"text": "Compare data by region",
+								"children": [
+									{
+										"id": "jmrfbcvk",
+										"text": "No time series"
+									},
+									{
+										"id": "vkfigfam",
+										"text": "with time series"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "qmfxtskc",
+						"text": "Where are impacts lower?",
+						"children": [
+							{
+								"id": "nuwxcafv",
+								"text": "Compare data by region&nbsp;",
+								"children": [
+									{
+										"id": "vuockfgs",
+										"text": "without time series"
+									},
+									{
+										"id": "bwraguoi",
+										"text": "with time series"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "zthjvpxs",
+						"text": "Where are there positive/negative relationships between datasets?",
+						"children": [
+							{
+								"id": "gfokbdnn",
+								"text": "Describe relationship&nbsp;",
+								"children": [
+									{
+										"id": "xkopevqo",
+										"text": "locations with positive"
+									},
+									{
+										"id": "whpwvgru",
+										"text": "locations with negative"
+									},
+									{
+										"id": "wcvlhgny",
+										"text": "locations with periodic"
+									},
+									{
+										"id": "edhyuooe",
+										"text": "locations with no relationship"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "aixsgxyd",
+						"text": "Where are decisions different?",
+						"children": [
+							{
+								"id": "dtkjptvh",
+								"text": "Describe decision differences by location",
+								"children": [
+									{
+										"id": "vmsqpkzv",
+										"text": "National"
+									},
+									{
+										"id": "iecopkfn",
+										"text": "international"
+									},
+									{
+										"id": "wfjauxfm",
+										"text": "regional"
+									},
+									{
+										"id": "tmktvlbc",
+										"text": "local"
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "jnhtjglx",
+				"text": "Who?",
+				"side": "left",
+				"children": [
+					{
+						"id": "nzujgyhg",
+						"text": "Who collected the data?",
+						"children": [
+							{
+								"id": "kbjfkvcp",
+								"text": "most of these collections will be official",
+								"children": [
+									{
+										"id": "hutdqlms",
+										"text": "organisation"
+									},
+									{
+										"id": "nwmvytuy",
+										"text": "purpose for collection"
+									},
+									{
+										"id": "kididgjb",
+										"text": "use"
+									},
+									{
+										"id": "eklyvoyp",
+										"text": "reliability"
+									}
+								]
+							},
+							{
+								"id": "bjnclvnp",
+								"text": "generated or inferred as part of analysis",
+								"children": [
+									{
+										"id": "xzehlxjy",
+										"text": "which team member"
+									},
+									{
+										"id": "nhqvqpfm",
+										"text": "method"
+									},
+									{
+										"id": "pblporlx",
+										"text": "original source"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "fjqnsfrd",
+						"text": "Who provided the data?",
+						"children": [
+							{
+								"id": "vtzvcbnz",
+								"text": "most are official collections",
+								"children": [
+									{
+										"id": "nuflrvee",
+										"text": "organisation"
+									},
+									{
+										"id": "mvftvklv",
+										"text": "purpose"
+									},
+									{
+										"id": "tpljixfh",
+										"text": "consent"
+									},
+									{
+										"id": "pvrbttyd",
+										"text": "authority"
+									},
+									{
+										"id": "mpnedtuo",
+										"text": "use"
+									},
+									{
+										"id": "ydwppxdg",
+										"text": "representativeness"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "zelkaxlj",
+						"text": "Who does the data relate to?",
+						"children": [
+							{
+								"id": "awolhmia",
+								"text": "most are official collections",
+								"children": [
+									{
+										"id": "ixjcjndk",
+										"text": "from official holdings"
+									},
+									{
+										"id": "qwiaffqr",
+										"text": "from survey"
+									}
+								]
+							},
+							{
+								"id": "ypzmvizm",
+								"text": "generated as part of the analysis",
+								"children": [
+									{
+										"id": "kweecurz",
+										"text": "team memberr"
+									},
+									{
+										"id": "vhkhhpvj",
+										"text": "method"
+									},
+									{
+										"id": "uoijzkqr",
+										"text": "original source"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "brgmzyfg",
+						"text": "Who reads/interprets the data?",
+						"children": [
+							{
+								"id": "tlzqqgvh",
+								"text": "official collections",
+								"children": [
+									{
+										"id": "gwgpbnrb",
+										"text": "public sector"
+									},
+									{
+										"id": "dfpsvwnn",
+										"text": "private sector"
+									},
+									{
+										"id": "hqqryonm",
+										"text": "academia"
+									},
+									{
+										"id": "tsxtswju",
+										"text": "media"
+									},
+									{
+										"id": "yfwmytsi",
+										"text": "public"
+									}
+								]
+							},
+							{
+								"id": "lynaozou",
+								"text": "project",
+								"children": [
+									{
+										"id": "ggiatlaq",
+										"text": "project team"
+									},
+									{
+										"id": "kpqqrlui",
+										"text": "supervisor"
+									},
+									{
+										"id": "fetemrsr",
+										"text": "possible publication"
+									},
+									{
+										"id": "xizuqfqb",
+										"text": "possible upload for public access"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "hvyykdch",
+						"text": "Who does specific tasks in the project team",
+						"children": [
+							{
+								"id": "xhhkeczw",
+								"text": "tasks by interest"
+							},
+							{
+								"id": "nhjrbvxf",
+								"text": "tasks by capability"
+							},
+							{
+								"id": "syjdzbjz",
+								"text": "tasks by necessity"
+							},
+							{
+								"id": "eisyepaa",
+								"text": "tasks by role or responsibility",
+								"children": [
+									{
+										"id": "zttejkfa",
+										"text": "supervisor",
+										"children": [
+											{
+												"id": "fnekppkh",
+												"text": "review project plan"
+											},
+											{
+												"id": "ltbpxjum",
+												"text": "review question"
+											},
+											{
+												"id": "avnhenku",
+												"text": "review initial analysis"
+											},
+											{
+												"id": "vsbwgeos",
+												"text": "respond to questions"
+											}
+										]
+									},
+									{
+										"id": "toifmclx",
+										"text": "project team",
+										"children": [
+											{
+												"id": "rclbtztd",
+												"text": "Abarna",
+												"children": [
+													{
+														"id": "blqhxkbt",
+														"text": "collection"
+													},
+													{
+														"id": "rxuvxqcg",
+														"text": "preprocessing"
+													},
+													{
+														"id": "kudezpxq",
+														"text": "analysis"
+													},
+													{
+														"id": "noggvtje",
+														"text": "production"
+													},
+													{
+														"id": "ccymtxng",
+														"text": "review"
+													}
+												]
+											},
+											{
+												"id": "zawqbogd",
+												"text": "Chad",
+												"children": [
+													{
+														"id": "dmpjpxzn",
+														"text": "collection"
+													},
+													{
+														"id": "dmfhophk",
+														"text": "preprocessing"
+													},
+													{
+														"id": "xfpqtcgs",
+														"text": "analysis"
+													},
+													{
+														"id": "ftqmcwtv",
+														"text": "production"
+													},
+													{
+														"id": "qqiwbjuk",
+														"text": "review"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "amqcookl",
+										"text": "course members",
+										"children": [
+											{
+												"id": "vmafarqo",
+												"text": "review",
+												"collapsed": 1
+											},
+											{
+												"id": "gmhescwa",
+												"text": "feedback"
+											}
+										]
+									},
+									{
+										"id": "lxxbqsmz",
+										"text": "external",
+										"children": [
+											{
+												"id": "icneczrh",
+												"text": "review"
+											},
+											{
+												"id": "tjooaihy",
+												"text": "feedback"
+											},
+											{
+												"id": "ppzfnzzh",
+												"text": "clarifications"
+											},
+											{
+												"id": "miofxxdt",
+												"text": "technical support"
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "apophszz",
+				"text": "Why?",
+				"side": "right",
+				"children": [
+					{
+						"id": "qtzixzoy",
+						"text": "Why did government make a decision?",
+						"children": [
+							{
+								"id": "yskhhiet",
+								"text": "Describe the intention",
+								"children": [
+									{
+										"id": "tavbefpo",
+										"text": "explain the perceived risk"
+									},
+									{
+										"id": "ortzakgh",
+										"text": "explain why government is responsible"
+									}
+								]
+							},
+							{
+								"id": "bfifxmig",
+								"text": "Describe the intervention",
+								"children": [
+									{
+										"id": "dyoxoqxc",
+										"text": "expected outcome"
+									},
+									{
+										"id": "fqvsehfb",
+										"text": "methodology"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "valiqjvn",
+						"text": "Why are there differences?",
+						"children": [
+							{
+								"id": "plxctawn",
+								"text": "relate to the expected outcome and methodology"
+							}
+						]
+					},
+					{
+						"id": "vxsbgjqa",
+						"text": "Why look at these indicators?",
+						"children": [
+							{
+								"id": "ayjsscjn",
+								"text": "explain what these indicators represent",
+								"children": [
+									{
+										"id": "oqoynbxt",
+										"text": "proxies?"
+									},
+									{
+										"id": "apduifuf",
+										"text": "defined usage"
+									}
+								]
+							},
+							{
+								"id": "xgpfvhlr",
+								"text": "availability"
+							},
+							{
+								"id": "tfkirmxr",
+								"text": "reliability"
+							},
+							{
+								"id": "scywyajl",
+								"text": "usability"
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "rfxckyen",
+				"text": "How?",
+				"side": "left",
+				"children": [
+					{
+						"id": "mvsvbyei",
+						"text": "How was the key decision made?",
+						"children": [
+							{
+								"id": "ftcjzdvy",
+								"text": "Describe decision process",
+								"children": [
+									{
+										"id": "uulkqezb",
+										"text": "consultation and engagement"
+									},
+									{
+										"id": "lcxiefcf",
+										"text": "timing"
+									},
+									{
+										"id": "rqukotyb",
+										"text": "communication"
+									},
+									{
+										"id": "pvhnityq",
+										"text": "key messaging"
+									},
+									{
+										"id": "xbatxfua",
+										"text": "supporting information"
+									},
+									{
+										"id": "jppxuqcw",
+										"text": "intended/unintended consequences identified"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "vlhxghpr",
+						"text": "how was the key decision communicated?",
+						"children": [
+							{
+								"id": "nnsfdmzs",
+								"text": "channels",
+								"children": [
+									{
+										"id": "oxmqbwhn",
+										"text": "announcements"
+									},
+									{
+										"id": "znxuhssv",
+										"text": "media"
+									},
+									{
+										"id": "bgpvwgpt",
+										"text": "public figures"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "ifcearxj",
+						"text": "How was the key decision enforced?",
+						"children": [
+							{
+								"id": "ibclwmzi",
+								"text": "locus of responsibility",
+								"children": [
+									{
+										"id": "ecwrtadz",
+										"text": "government",
+										"children": [
+											{
+												"id": "dkmakylb",
+												"text": "sector"
+											},
+											{
+												"id": "dnzbxfjf",
+												"text": "agency"
+											},
+											{
+												"id": "efnjurtq",
+												"text": "coordination"
+											},
+											{
+												"id": "srvizxyq",
+												"text": "regulation"
+											}
+										]
+									},
+									{
+										"id": "gyzynzyl",
+										"text": "private sector"
+									},
+									{
+										"id": "jzozrxjt",
+										"text": "social group"
+									},
+									{
+										"id": "qmflaazh",
+										"text": "individual levell"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "xolpsnwx",
+						"text": "How did the decision manifest in the data?",
+						"children": [
+							{
+								"id": "njrfpnjo",
+								"text": "relate to intended consequences"
+							},
+							{
+								"id": "oopzderb",
+								"text": "relate to timing (lag)"
+							},
+							{
+								"id": "oageqkjv",
+								"text": "relate to location"
+							},
+							{
+								"id": "yqufakng",
+								"text": "relate to demographic"
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}
